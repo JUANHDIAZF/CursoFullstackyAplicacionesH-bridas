@@ -12,4 +12,4 @@ Contiene:
   * Archivo en HTML (Lenguaje de Marcas de Hipertexto, o Hypertext Markup Language en inglés) 
   * Archivo en CSS  (Cascading Style Sheets)
 
-![Logo Fedesoft](Imagenes/CV.png)
+![Icono CV](Imagenes/CV.png)
