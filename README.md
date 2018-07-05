@@ -3,7 +3,7 @@ Curso de Fullstack y Aplicaciones Hibridas
 
 ## Desarrollo de clases del curso Fullstack y Aplicaciones Híbridas
 
-![Image](C:\Users\sala502\Desktop\Fedesoft4)
+![Image](Fedesoft4.png)
 
 En este entorno, publicaré los ejercicios desarrollados en el curso de Fullstack y Aplicaciones Hibridas dictado en FEDESOFT
 
