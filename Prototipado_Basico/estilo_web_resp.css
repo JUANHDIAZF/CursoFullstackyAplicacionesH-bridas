@@ -1,0 +1,47 @@
+body{
+	color:green;
+	background-color: cornsilk;
+	font-family: arial;
+	font-size: 150%;
+}
+
+
+#encabezado {
+	width: 1320px;
+	height: 100px;
+	background: black;
+	position: relative;
+}
+
+#cuerpo {
+	
+	height: 600px;
+	background: grey;
+	position: relative;
+}
+
+.incorp {
+	width: screen;
+	height: 100px;
+	background: yellow;
+	float:left;
+	border: 1px solid #ccc;
+}
+
+
+#pie {
+	width: 1320px;
+	height: 100px;
+	background: black;
+	position: relative;
+}
+
+
+@media screen (max-width: 450px) {
+	.incorp {width: 100%;
+		background: blue}
+}
+
+@media screen (min-width: 451px) and (max-width: 700px){
+	.incorp {width: 75%}
+}
