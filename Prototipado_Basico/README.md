@@ -5,6 +5,7 @@ Ejercicio de prototipado básico
  
 ![Logo Fedesoft](Imagenes/CV_ICON.png)
 
+
 Con este ejercicio se abordan aspectos básicos de HTML para darle estructura a una página web sencilla con sus respectivos formatos en CSS.
 
 ---
