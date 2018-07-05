@@ -12,4 +12,20 @@ Contiene:
   * Archivo en HTML (Lenguaje de Marcas de Hipertexto, o Hypertext Markup Language en inglés) 
   * Archivo en CSS  (Cascading Style Sheets)
 
-![Logo Fedesoft](Imagenes/CV.png)
+---
+
+Temática del móduilo de HTML5 & CSS3
+
+* Introducción HTML
+* Anatomía HTML
+* Estructura HTML
+* HTML + CSS
+* Introducción CSS
+* Inline Styles
+* selectores
+* .css files
+* Elementos anidados
+* Box model
+* Colores, Tipografía
+* CSS Grids
+
