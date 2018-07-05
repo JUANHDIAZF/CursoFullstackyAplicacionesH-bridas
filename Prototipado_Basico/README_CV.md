@@ -7,7 +7,7 @@ Con este ejercicio se abordan aspectos básicos de HTML para darle estructura a 
 
 ---
 
-**Contiene:**
+**Para el desarrollo de este ejercicio se construyeron los siguientes archivos:**
 
   * Archivo en HTML (Lenguaje de Marcas de Hipertexto, o Hypertext Markup Language en inglés) 
   * Archivo en CSS  (Cascading Style Sheets)
