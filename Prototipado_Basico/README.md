@@ -3,6 +3,8 @@ Ejercicio de prototipado básico
 
 ## Hoja de vida: Código en HTML y CSS utilizado para construir una página básica con datos personales
  
+![Ícono CV](Imagenes/CV_ICON.png)
+
 Con este ejercicio se abordan aspectos básicos de HTML para darle estructura a una página web sencilla con sus respectivos formatos en CSS.
 
 ---
