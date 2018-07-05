@@ -1,8 +1,8 @@
-**Ejercicio de prototipado básico**
-Hoja de vida
+Ejercicio de prototipado básico
+
 =======
 
-## Código en HTML y CSS utilizado para construir una página básica con datos personales
+## Hoja de vida: Código en HTML y CSS utilizado para construir una página básica con datos personales
  
 Con este ejercicio se abordan aspectos básicos de HTML para darle estructura a una página web sencilla con sus respectivos formatos en CSS.
 
