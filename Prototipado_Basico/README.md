@@ -1,5 +1,4 @@
 Ejercicio de prototipado básico
-
 =======
 
 ## Hoja de vida: Código en HTML y CSS utilizado para construir una página básica con datos personales
