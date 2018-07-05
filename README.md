@@ -9,11 +9,11 @@ Este repositorio contiene el desarrollo de las siguientes actividades:
 
 ---
 
-Prototipado Básico:
+**Prototipado Básico:**
 
   * Scketch en Proto.io
 
-Prototipado Básico:
+**Prototipado Básico:**
 
   * Página con datos personales
   * Clon de página para practicar diseño en HTML y CSS
